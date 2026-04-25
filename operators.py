@@ -27,7 +27,6 @@ print(a)
 print(b)
 
 
-
 # Comparison operators
 
 print(a == b)

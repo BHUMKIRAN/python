@@ -115,5 +115,5 @@ print(type(a))
 print(random.randint(1, 10))
 
 print(bool("kiran"))
-print(bool(12) )
+print(bool(12))
 print(bool(["apple", "cherry", "banana"]))
