@@ -37,3 +37,9 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Node / JS
+node_modules/
+
+# Data
+raw/
